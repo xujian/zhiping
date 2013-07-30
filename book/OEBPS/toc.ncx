@@ -49,43 +49,90 @@
         <li><a href="../Text/chapter03.xhtml"><span>第三回　金陵城起复贾雨村　荣国府收养林黛玉</span></a></li>
         <li><a href="../Text/chapter04.xhtml"><span>第四回　薄命女偏逢薄命郎　葫芦僧乱判葫芦案</span></a></li>
         <li><a href="../Text/chapter05.xhtml"><span>第五回　游幻境指迷十二钗　饮仙醪曲演红楼梦</span></a></li>
-    -->        
+    -->
+
+
     <navPoint id="navpoint-chapter-01" playOrder="1">
       <navLabel>
         <text>第一回　甄士隐梦幻识通灵　贾雨村风尘怀闺秀</text>
       </navLabel>
       <content src="Text/chapter01.xhtml"/>
     </navPoint>
+
+
     <navPoint id="navpoint-chapter-02" playOrder="2">
       <navLabel>
         <text>第二回　贾夫人仙逝扬州城　冷子兴演说荣国府</text>
       </navLabel>
       <content src="Text/chapter02.xhtml"/>
     </navPoint>
+
+
     <navPoint id="navpoint-chapter-03" playOrder="3">
       <navLabel>
         <text>第三回　金陵城起复贾雨村　荣国府收养林黛玉</text>
       </navLabel>
       <content src="Text/chapter03.xhtml"/>
     </navPoint>
+
+
     <navPoint id="navpoint-chapter-04" playOrder="4">
       <navLabel>
         <text>第四回　薄命女偏逢薄命郎　葫芦僧乱判葫芦案</text>
       </navLabel>
       <content src="Text/chapter04.xhtml"/>
     </navPoint>
+
+
     <navPoint id="navpoint-chapter-05" playOrder="5">
       <navLabel>
         <text>第五回　游幻境指迷十二钗　饮仙醪曲演红楼梦</text>
       </navLabel>
       <content src="Text/chapter05.xhtml"/>
     </navPoint>
+
+
     <navPoint id="navpoint-chapter-06" playOrder="6">
       <navLabel>
         <text>第六回　贾宝玉初试云雨情　刘姥姥一进荣国府</text>
       </navLabel>
       <content src="Text/chapter06.xhtml"/>
     </navPoint>
+
+
+    <navPoint id="navpoint-chapter-07" playOrder="7">
+      <navLabel>
+        <text>第七回　送宫花贾琏戏熙凤　宴宁府宝玉会秦钟</text>
+      </navLabel>
+      <content src="Text/chapter07.xhtml"/>
+    </navPoint>
+
+
+    <navPoint id="navpoint-chapter-08" playOrder="8">
+      <navLabel>
+        <text>第八回　比通灵金莺微露意　探宝钗黛玉半含酸</text>
+      </navLabel>
+      <content src="Text/chapter08.xhtml"/>
+    </navPoint>
+
+
+    <navPoint id="navpoint-chapter-09" playOrder="9">
+      <navLabel>
+        <text>第九回　恋风流情友入家塾　起嫌疑顽童闹学堂</text>
+      </navLabel>
+      <content src="Text/chapter09.xhtml"/>
+    </navPoint>
+
+
+    <navPoint id="navpoint-chapter-10" playOrder="10">
+      <navLabel>
+        <text>第十回　金寡妇贪利权受辱　张太医论病细穷源</text>
+      </navLabel>
+      <content src="Text/chapter10.xhtml"/>
+    </navPoint>
+
+
+
     <!--
     <navPoint id="navpoint9" playOrder="9">
       <navLabel>
