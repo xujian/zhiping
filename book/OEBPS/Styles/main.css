@@ -18,9 +18,9 @@ p {
 	text-indent: 2em;
 	line-height:100%;
 	text-justify:distribute;
-	margin-top: 0.5em;
-	margin-bottom: 0.5em;
+	margin-bottom: 1.4em;
 }
+
 .cover {
 	width:100%;
 	padding:0px;
@@ -30,7 +30,7 @@ h1 {
 	line-height:120%;
 	text-align: center;
 	font-weight:bold;
-	font-size:xx-large;
+	font-size:160%;
 }
 h2 {
 	line-height:120%;
@@ -40,7 +40,7 @@ h2 {
 }
 
 em {
-	color: #ee0000;
+	color: #cc0000;
 	font-size: x-small;
 	font-style:normal;
 }

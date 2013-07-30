@@ -80,6 +80,12 @@
       </navLabel>
       <content src="Text/chapter05.xhtml"/>
     </navPoint>
+    <navPoint id="navpoint-chapter-06" playOrder="6">
+      <navLabel>
+        <text>第六回　贾宝玉初试云雨情　刘姥姥一进荣国府</text>
+      </navLabel>
+      <content src="Text/chapter06.xhtml"/>
+    </navPoint>
     <!--
     <navPoint id="navpoint9" playOrder="9">
       <navLabel>
