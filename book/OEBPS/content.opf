@@ -3,16 +3,16 @@
   <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
     <!-- ISBN -->
-    <dc:identifier id="bookid" opf:scheme="ISBN">urn:isbn:[ISBN]</dc:identifier>
+    <dc:identifier id="bookid" opf:scheme="ISBN">urn:isbn:ISBN-116878221</dc:identifier>
     <dc:title>脂砚斋重评石头记</dc:title>
     <dc:rights>Copyright © 2003 Heli Workshop. All rights reserved.</dc:rights>
 
     <!-- BISAC Subject Headings List: http://www.bisg.org/what-we-do-0-136-bisac-subject-headings-list-major-subjects.php-->
-    <dc:subject>[LIST / OF / SUBJECTS]</dc:subject>
+    <dc:subject></dc:subject>
 
     <dc:creator opf:file-as="春风" opf:role="aut">春风</dc:creator>
 
-    <dc:source>[SOURCE URL]</dc:source>
+    <dc:source></dc:source>
 
     <!-- List of contributors
 
@@ -45,7 +45,7 @@
     <!-- Language code: http://en.wikipedia.org/wiki/List_of_ISO_639-2_codes -->
     <dc:language>zh</dc:language>
 
-    <meta name="cover" content="[COVER_NAME].jpg" />
+    <meta name="cover" content="Images/cover.jpg" />
 
     <!-- UUID generator: http://www.famkruithof.net/uuid/uuidgen -->
     <dc:identifier opf:scheme="UUID">urn:uuid:acca9220-f85d-11e2-b778-0800200c9a66</dc:identifier>
