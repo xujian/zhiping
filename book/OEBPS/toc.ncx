@@ -44,23 +44,6 @@
       </navLabel>
       <content src="Text/introduction.xhtml"/>
     </navPoint>
-        <li><a href="../Text/chapter01.xhtml"><span>第一回　甄士隐梦幻识通灵　贾雨村风尘怀闺秀</span></a></li>
-        <li><a href="../Text/chapter02.xhtml"><span>第二回　贾夫人仙逝扬州城　冷子兴演说荣国府</span></a></li>
-        <li><a href="../Text/chapter03.xhtml"><span>第三回　金陵城起复贾雨村　荣国府收养林黛玉</span></a></li>
-        <li><a href="../Text/chapter04.xhtml"><span>第四回　薄命女偏逢薄命郎　葫芦僧乱判葫芦案</span></a></li>
-        <li><a href="../Text/chapter05.xhtml"><span>第五回　游幻境指迷十二钗　饮仙醪曲演红楼梦</span></a></li>
-
-
-        <li><a href="../Text/chapter11.xhtml"><span>第十一回　庆寿辰宁府排家宴　见熙凤贾瑞起淫心</span></a></li>
-        <li><a href="../Text/chapter12.xhtml"><span>第十二回　王熙凤毒设相思局　贾天祥正照风月鉴</span></a></li>
-        <li><a href="../Text/chapter13.xhtml"><span>第十三回　秦可卿死封龙禁尉　王熙凤协理宁国府</span></a></li>
-        <li><a href="../Text/chapter14.xhtml"><span>第十四回　林如海捐馆扬州城　贾宝玉路谒北静王</span></a></li>
-        <li><a href="../Text/chapter15.xhtml"><span>第十五回　王凤姐弄权铁槛寺　秦鲸卿得趣馒头庵</span></a></li>
-        <li><a href="../Text/chapter16.xhtml"><span>第十六回　贾元春才选凤藻宫　秦鲸卿夭逝黄泉路</span></a></li>
-        <li><a href="../Text/chapter17.xhtml"><span>第十七回　大观园试才题对额　荣国府归省庆元宵</span></a></li>
-        <li><a href="../Text/chapter18.xhtml"><span>第十八回　皇恩重元妃省父母　天伦乐宝玉呈才藻</span></a></li>
-        <li><a href="../Text/chapter19.xhtml"><span>第十九回　情切切良宵花解语　意绵绵静日玉生香</span></a></li>
-        <li><a href="../Text/chapter20.xhtml"><span>第二十回　王熙凤正言弹妒意　林黛玉俏语谑娇音</span></a></li>
     -->
 
 
@@ -146,7 +129,7 @@
     
     <navPoint id="navpoint-chapter-11" playOrder="11">
       <navLabel>
-        <text>第十一回　甄士隐梦幻识通灵　贾雨村风尘怀闺秀</text>
+        <text>第十一回　庆寿辰宁府排家宴　见熙凤贾瑞起淫心</text>
       </navLabel>
       <content src="Text/chapter11.xhtml"/>
     </navPoint>
@@ -154,7 +137,7 @@
 
     <navPoint id="navpoint-chapter-12" playOrder="12">
       <navLabel>
-        <text>第十二回　贾夫人仙逝扬州城　冷子兴演说荣国府</text>
+        <text>第十二回　王熙凤毒设相思局　贾天祥正照风月鉴</text>
       </navLabel>
       <content src="Text/chapter12.xhtml"/>
     </navPoint>
@@ -162,7 +145,7 @@
 
     <navPoint id="navpoint-chapter-13" playOrder="13">
       <navLabel>
-        <text>第十三回　金陵城起复贾雨村　荣国府收养林黛玉</text>
+        <text>第十三回　秦可卿死封龙禁尉　王熙凤协理宁国府</text>
       </navLabel>
       <content src="Text/chapter13.xhtml"/>
     </navPoint>
@@ -170,7 +153,7 @@
 
     <navPoint id="navpoint-chapter-14" playOrder="14">
       <navLabel>
-        <text>第十四回　薄命女偏逢薄命郎　葫芦僧乱判葫芦案</text>
+        <text>第十四回　林如海捐馆扬州城　贾宝玉路谒北静王</text>
       </navLabel>
       <content src="Text/chapter14.xhtml"/>
     </navPoint>
@@ -178,7 +161,7 @@
 
     <navPoint id="navpoint-chapter-15" playOrder="15">
       <navLabel>
-        <text>第十五回　游幻境指迷十二钗　饮仙醪曲演红楼梦</text>
+        <text>第十五回　王凤姐弄权铁槛寺　秦鲸卿得趣馒头庵</text>
       </navLabel>
       <content src="Text/chapter15.xhtml"/>
     </navPoint>
@@ -186,7 +169,7 @@
 
     <navPoint id="navpoint-chapter-16" playOrder="16">
       <navLabel>
-        <text>第十六回　贾宝玉初试云雨情　刘姥姥一进荣国府</text>
+        <text>第十六回　贾元春才选凤藻宫　秦鲸卿夭逝黄泉路</text>
       </navLabel>
       <content src="Text/chapter16.xhtml"/>
     </navPoint>
@@ -194,7 +177,7 @@
 
     <navPoint id="navpoint-chapter-17" playOrder="17">
       <navLabel>
-        <text>第十七回　送宫花贾琏戏熙凤　宴宁府宝玉会秦钟</text>
+        <text>第十七回　大观园试才题对额　荣国府归省庆元宵</text>
       </navLabel>
       <content src="Text/chapter17.xhtml"/>
     </navPoint>
@@ -202,7 +185,7 @@
 
     <navPoint id="navpoint-chapter-18" playOrder="18">
       <navLabel>
-        <text>第十八回　比通灵金莺微露意　探宝钗黛玉半含酸</text>
+        <text>第十八回　皇恩重元妃省父母　天伦乐宝玉呈才藻</text>
       </navLabel>
       <content src="Text/chapter18.xhtml"/>
     </navPoint>
@@ -210,7 +193,7 @@
 
     <navPoint id="navpoint-chapter-19" playOrder="19">
       <navLabel>
-        <text>第十九回　恋风流情友入家塾　起嫌疑顽童闹学堂</text>
+        <text>第十九回　情切切良宵花解语　意绵绵静日玉生香</text>
       </navLabel>
       <content src="Text/chapter19.xhtml"/>
     </navPoint>
@@ -218,11 +201,93 @@
 
     <navPoint id="navpoint-chapter-20" playOrder="20">
       <navLabel>
-        <text>第二十回　金寡妇贪利权受辱　张太医论病细穷源</text>
+        <text>第二十回　王熙凤正言弹妒意　林黛玉俏语谑娇音</text>
       </navLabel>
       <content src="Text/chapter20.xhtml"/>
     </navPoint>
 
+
+
+    <!--
+    <navPoint id="navpoint-chapter-21" playOrder="21">
+      <navLabel>
+        <text>第二十一回　贤袭人娇嗔箴宝玉　俏平儿软语救贾琏</text>
+      </navLabel>
+      <content src="Text/chapter21.xhtml"/>
+    </navPoint>
+
+
+    <navPoint id="navpoint-chapter-22" playOrder="22">
+      <navLabel>
+        <text>第二十二回　听曲文宝玉悟禅机　制灯迷贾政悲谶语</text>
+      </navLabel>
+      <content src="Text/chapter22.xhtml"/>
+    </navPoint>
+
+
+    <navPoint id="navpoint-chapter-23" playOrder="23">
+      <navLabel>
+        <text>第二十三回　西厢记妙词通戏语　牡丹亭艳曲警芳心</text>
+      </navLabel>
+      <content src="Text/chapter23.xhtml"/>
+    </navPoint>
+
+
+    <navPoint id="navpoint-chapter-24" playOrder="24">
+      <navLabel>
+        <text>第二十四回　醉金刚轻财尚义侠　痴女儿遗帕惹相思</text>
+      </navLabel>
+      <content src="Text/chapter24.xhtml"/>
+    </navPoint>
+
+
+    <navPoint id="navpoint-chapter-25" playOrder="25">
+      <navLabel>
+        <text>第二十五回　魇魔法姊弟逢五鬼　红楼梦通灵遇双真</text>
+      </navLabel>
+      <content src="Text/chapter25.xhtml"/>
+    </navPoint>
+
+
+    <navPoint id="navpoint-chapter-26" playOrder="26">
+      <navLabel>
+        <text>第二十六回　蜂腰桥设言传心事　潇湘馆春困发幽情</text>
+      </navLabel>
+      <content src="Text/chapter26.xhtml"/>
+    </navPoint>
+
+
+    <navPoint id="navpoint-chapter-27" playOrder="27">
+      <navLabel>
+        <text>第二十七回　滴翠亭杨妃戏彩蝶　埋香冢飞燕泣残红	</text>
+      </navLabel>
+      <content src="Text/chapter27.xhtml"/>
+    </navPoint>
+
+
+    <navPoint id="navpoint-chapter-28" playOrder="28">
+      <navLabel>
+        <text>第二十八回　蒋玉菡情赠茜香罗　薛宝钗羞笼红麝串</text>
+      </navLabel>
+      <content src="Text/chapter28.xhtml"/>
+    </navPoint>
+
+
+    <navPoint id="navpoint-chapter-29" playOrder="29">
+      <navLabel>
+        <text>第二十九回　享福人福深还祷福　痴情女情重愈斟情</text>
+      </navLabel>
+      <content src="Text/chapter29.xhtml"/>
+    </navPoint>
+
+
+    <navPoint id="navpoint-chapter-30" playOrder="30">
+      <navLabel>
+        <text>第三十回　王熙凤正言弹妒意　林黛玉俏语谑娇音</text>
+      </navLabel>
+      <content src="Text/chapter30.xhtml"/>
+    </navPoint>
+	-->
 
 
     <!--

@@ -114,8 +114,8 @@
 
        -->
   <spine toc="ncx">
-  <!--
     <itemref idref="cover" />
+  <!--
     <itemref idref="frontmatter" />
     <itemref idref="toc" />
     <itemref idref="foreword" />
@@ -160,9 +160,9 @@
 
        -->
   <guide>
+    <reference href="Text/cover.xhtml" title="封一" type="cover" />
+    <reference href="Text/toc.xhtml" title="目次" type="toc" />
   <!--
-    <reference href="Text/cover.xhtml" title="Cover" type="cover" />
-    <reference href="Text/toc.xhtml" title="Table of Contents" type="toc" />
     <reference href="Text/frontmatter.xhtml" type="copyright-page" />
     <reference href="Text/foreword.xhtml" type="foreword" />
     <reference href="Text/dedication.xhtml" type="dedication" />

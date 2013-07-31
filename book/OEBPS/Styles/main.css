@@ -45,7 +45,19 @@ em {
 	font-style:normal;
 }
 
-p.lines {
+.lines {
 	margin-left: 4em;
 	text-indent: 0;
+}
+
+.lines h6{
+	margin-bottom: 0.25em;
+	margin-left: 1em;
+	font-size: 75%;
+	font-family: kaiti 楷体  sans-serif;
+}
+
+.lines h6 b {
+	font-weight: normal;
+	font-size: 75%;
 }
