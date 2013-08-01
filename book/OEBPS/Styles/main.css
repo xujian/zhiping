@@ -62,3 +62,9 @@ p.lines span.title b {
 	font-weight: normal;
 	font-size: 75%;
 }
+
+
+#toc ul a 
+{
+	text-decoration: none;
+}

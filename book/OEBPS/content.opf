@@ -89,6 +89,16 @@
     <item href="Text/chapter18.xhtml" id="chapter-18" media-type="application/xhtml+xml" />
     <item href="Text/chapter19.xhtml" id="chapter-19" media-type="application/xhtml+xml" />
     <item href="Text/chapter20.xhtml" id="chapter-20" media-type="application/xhtml+xml" />
+    <item href="Text/chapter21.xhtml" id="chapter-21" media-type="application/xhtml+xml" />
+    <item href="Text/chapter22.xhtml" id="chapter-22" media-type="application/xhtml+xml" />
+    <item href="Text/chapter23.xhtml" id="chapter-23" media-type="application/xhtml+xml" />
+    <item href="Text/chapter24.xhtml" id="chapter-24" media-type="application/xhtml+xml" />
+    <item href="Text/chapter25.xhtml" id="chapter-25" media-type="application/xhtml+xml" />
+    <item href="Text/chapter26.xhtml" id="chapter-26" media-type="application/xhtml+xml" />
+    <item href="Text/chapter27.xhtml" id="chapter-27" media-type="application/xhtml+xml" />
+    <item href="Text/chapter28.xhtml" id="chapter-28" media-type="application/xhtml+xml" />
+    <item href="Text/chapter29.xhtml" id="chapter-29" media-type="application/xhtml+xml" />
+    <item href="Text/chapter30.xhtml" id="chapter-30" media-type="application/xhtml+xml" />
     <item href="Text/endnotes.xhtml" id="endnotes" media-type="application/xhtml+xml" />
     <item href="Text/acknowledgements.xhtml" id="acknowledgements" media-type="application/xhtml+xml" />
     <item href="Images/image-01.jpg" id="image-01" media-type="image/jpeg" />
@@ -142,6 +152,16 @@
     <itemref idref="chapter-18" />
     <itemref idref="chapter-19" />
     <itemref idref="chapter-20" />
+    <itemref idref="chapter-21" />
+    <itemref idref="chapter-22" />
+    <itemref idref="chapter-23" />
+    <itemref idref="chapter-24" />
+    <itemref idref="chapter-25" />
+    <itemref idref="chapter-26" />
+    <itemref idref="chapter-27" />
+    <itemref idref="chapter-28" />
+    <itemref idref="chapter-29" />
+    <itemref idref="chapter-30" />
     <!--
     <itemref idref="endnotes" />
     <itemref idref="acknowledgements" />
@@ -188,6 +208,16 @@
     <reference href="Text/chapter18.xhtml" type="text" />
     <reference href="Text/chapter19.xhtml" type="text" />
     <reference href="Text/chapter20.xhtml" type="text" />
+    <reference href="Text/chapter21.xhtml" type="text" />
+    <reference href="Text/chapter22.xhtml" type="text" />
+    <reference href="Text/chapter23.xhtml" type="text" />
+    <reference href="Text/chapter24.xhtml" type="text" />
+    <reference href="Text/chapter25.xhtml" type="text" />
+    <reference href="Text/chapter26.xhtml" type="text" />
+    <reference href="Text/chapter27.xhtml" type="text" />
+    <reference href="Text/chapter28.xhtml" type="text" />
+    <reference href="Text/chapter29.xhtml" type="text" />
+    <reference href="Text/chapter30.xhtml" type="text" />
     <!--
     <reference href="Text/endnotes.xhtml" type="notes" />
     <reference href="Text/acknowledgements.xhtml" type="acknowledgements" />
