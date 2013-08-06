@@ -68,3 +68,9 @@ p.lines span.title b {
 {
 	text-decoration: none;
 }
+
+.comments 
+{
+	margin-left: 2em;
+	text-indent: 0;
+}
