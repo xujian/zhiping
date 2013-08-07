@@ -208,6 +208,87 @@
 
 
 
+
+    <navPoint id="navpoint-chapter-21" playOrder="21">
+      <navLabel>
+        <text>第二十一回　贤袭人娇嗔箴宝玉　俏平儿软语救贾琏</text>
+      </navLabel>
+      <content src="Text/chapter21.xhtml"/>
+    </navPoint>
+
+
+    <navPoint id="navpoint-chapter-22" playOrder="22">
+      <navLabel>
+        <text>第二十二回　听曲文宝玉悟禅机　制灯迷贾政悲谶语</text>
+      </navLabel>
+      <content src="Text/chapter22.xhtml"/>
+    </navPoint>
+
+
+    <navPoint id="navpoint-chapter-23" playOrder="23">
+      <navLabel>
+        <text>第二十三回　西厢记妙词通戏语　牡丹亭艳曲警芳心</text>
+      </navLabel>
+      <content src="Text/chapter23.xhtml"/>
+    </navPoint>
+
+
+    <navPoint id="navpoint-chapter-24" playOrder="24">
+      <navLabel>
+        <text>第二十四回　醉金刚轻财尚义侠　痴女儿遗帕惹相思</text>
+      </navLabel>
+      <content src="Text/chapter24.xhtml"/>
+    </navPoint>
+
+
+    <navPoint id="navpoint-chapter-25" playOrder="25">
+      <navLabel>
+        <text>第二十五回　魇魔法姊弟逢五鬼　红楼梦通灵遇双真</text>
+      </navLabel>
+      <content src="Text/chapter25.xhtml"/>
+    </navPoint>
+
+
+    <navPoint id="navpoint-chapter-26" playOrder="26">
+      <navLabel>
+        <text>第二十六回　蜂腰桥设言传心事　潇湘馆春困发幽情</text>
+      </navLabel>
+      <content src="Text/chapter26.xhtml"/>
+    </navPoint>
+
+
+    <navPoint id="navpoint-chapter-27" playOrder="27">
+      <navLabel>
+        <text>第二十七回　滴翠亭杨妃戏彩蝶　埋香冢飞燕泣残红　</text>
+      </navLabel>
+      <content src="Text/chapter27.xhtml"/>
+    </navPoint>
+
+
+    <navPoint id="navpoint-chapter-28" playOrder="28">
+      <navLabel>
+        <text>第二十八回　蒋玉菡情赠茜香罗　薛宝钗羞笼红麝串</text>
+      </navLabel>
+      <content src="Text/chapter28.xhtml"/>
+    </navPoint>
+
+
+    <navPoint id="navpoint-chapter-29" playOrder="29">
+      <navLabel>
+        <text>第二十九回　享福人福深还祷福　痴情女情重愈斟情</text>
+      </navLabel>
+      <content src="Text/chapter29.xhtml"/>
+    </navPoint>
+
+
+    <navPoint id="navpoint-chapter-30" playOrder="30">
+      <navLabel>
+        <text>第三十回　王熙凤正言弹妒意　林黛玉俏语谑娇音</text>
+      </navLabel>
+      <content src="Text/chapter30.xhtml"/>
+    </navPoint>
+
+
     <navPoint id="navpoint-chapter-31" playOrder="31">
       <navLabel>
         <text>第三十一回　撕扇子作千金一笑　因麒麟伏白首双星</text>
@@ -289,85 +370,94 @@
 
 
 
-    <navPoint id="navpoint-chapter-21" playOrder="21">
+
+
+
+
+
+
+
+
+
+
+    <navPoint id="navpoint-chapter-41" playOrder="41">
       <navLabel>
-        <text>第二十一回　贤袭人娇嗔箴宝玉　俏平儿软语救贾琏</text>
+        <text>第四十一回　栊翠庵茶品梅花雪　怡红院劫遇母蝗虫　</text>
       </navLabel>
-      <content src="Text/chapter21.xhtml"/>
+      <content src="Text/chapter41.xhtml"/>
     </navPoint>
 
 
-    <navPoint id="navpoint-chapter-22" playOrder="22">
+    <navPoint id="navpoint-chapter-42" playOrder="42">
       <navLabel>
-        <text>第二十二回　听曲文宝玉悟禅机　制灯迷贾政悲谶语</text>
+        <text>第四十二回　蘅芜君兰言解疑癖　潇湘子雅谬补余香</text>
       </navLabel>
-      <content src="Text/chapter22.xhtml"/>
+      <content src="Text/chapter42.xhtml"/>
     </navPoint>
 
 
-    <navPoint id="navpoint-chapter-23" playOrder="23">
+    <navPoint id="navpoint-chapter-43" playOrder="43">
       <navLabel>
-        <text>第二十三回　西厢记妙词通戏语　牡丹亭艳曲警芳心</text>
+        <text>第四十三回　闲取乐偶攒金庆寿　不了情暂撮土为香</text>
       </navLabel>
-      <content src="Text/chapter23.xhtml"/>
+      <content src="Text/chapter43.xhtml"/>
     </navPoint>
 
 
-    <navPoint id="navpoint-chapter-24" playOrder="24">
+    <navPoint id="navpoint-chapter-44" playOrder="44">
       <navLabel>
-        <text>第二十四回　醉金刚轻财尚义侠　痴女儿遗帕惹相思</text>
+        <text>第四十四回　变生不测凤姐泼醋　喜出望外平儿理妆</text>
       </navLabel>
-      <content src="Text/chapter24.xhtml"/>
+      <content src="Text/chapter44.xhtml"/>
     </navPoint>
 
 
-    <navPoint id="navpoint-chapter-25" playOrder="25">
+    <navPoint id="navpoint-chapter-45" playOrder="45">
       <navLabel>
-        <text>第二十五回　魇魔法姊弟逢五鬼　红楼梦通灵遇双真</text>
+        <text>第四十五回　金兰契互剖金兰语　风雨夕闷制风雨词</text>
       </navLabel>
-      <content src="Text/chapter25.xhtml"/>
+      <content src="Text/chapter45.xhtml"/>
     </navPoint>
 
 
-    <navPoint id="navpoint-chapter-26" playOrder="26">
+    <navPoint id="navpoint-chapter-46" playOrder="46">
       <navLabel>
-        <text>第二十六回　蜂腰桥设言传心事　潇湘馆春困发幽情</text>
+        <text>第四十六回　尴尬人难免尴尬事　鸳鸯女誓绝鸳鸯偶</text>
       </navLabel>
-      <content src="Text/chapter26.xhtml"/>
+      <content src="Text/chapter46.xhtml"/>
     </navPoint>
 
 
-    <navPoint id="navpoint-chapter-27" playOrder="27">
+    <navPoint id="navpoint-chapter-47" playOrder="47">
       <navLabel>
-        <text>第二十七回　滴翠亭杨妃戏彩蝶　埋香冢飞燕泣残红　</text>
+        <text>第四十七回　呆霸王调情遭苦打　冷郎君惧祸走他乡</text>
       </navLabel>
-      <content src="Text/chapter27.xhtml"/>
+      <content src="Text/chapter47.xhtml"/>
     </navPoint>
 
 
-    <navPoint id="navpoint-chapter-28" playOrder="28">
+    <navPoint id="navpoint-chapter-48" playOrder="48">
       <navLabel>
-        <text>第二十八回　蒋玉菡情赠茜香罗　薛宝钗羞笼红麝串</text>
+        <text>第四十八回　滥情人情误思游艺　慕雅女雅集苦吟诗</text>
       </navLabel>
-      <content src="Text/chapter28.xhtml"/>
+      <content src="Text/chapter48.xhtml"/>
     </navPoint>
 
 
-    <navPoint id="navpoint-chapter-29" playOrder="29">
+    <navPoint id="navpoint-chapter-49" playOrder="49">
       <navLabel>
-        <text>第二十九回　享福人福深还祷福　痴情女情重愈斟情</text>
+        <text>第四十九回　琉璃世界白雪红梅　脂粉香娃割腥啖膻</text>
       </navLabel>
-      <content src="Text/chapter29.xhtml"/>
+      <content src="Text/chapter49.xhtml"/>
     </navPoint>
 
 
-    <navPoint id="navpoint-chapter-30" playOrder="30">
+    <navPoint id="navpoint-chapter-50" playOrder="50">
       <navLabel>
-        <text>第三十回　王熙凤正言弹妒意　林黛玉俏语谑娇音</text>
+        <text>第五十回　芦雪庵争联即景诗　暖香坞雅制春灯谜</text>
       </navLabel>
-      <content src="Text/chapter30.xhtml"/>
+      <content src="Text/chapter50.xhtml"/>
     </navPoint>
-
 
     <!--
     <navPoint id="navpoint9" playOrder="9">
