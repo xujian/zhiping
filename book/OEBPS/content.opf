@@ -36,8 +36,8 @@
 
          -->
 
-    <dc:contributor opf:file-as="[LASTNAME, NAME]" opf:role="edt">[NAME LASTNAME]</dc:contributor>
-    <dc:contributor opf:file-as="[LASTNAME, NAME]" opf:role="cov">[NAME LASTNAME]</dc:contributor>
+    <dc:contributor opf:file-as="春风书店" opf:role="edt">春风书店</dc:contributor>
+    <dc:contributor opf:file-as="春风书店" opf:role="cov">春风书店</dc:contributor>
 
     <dc:publisher>春风书店</dc:publisher>
     <dc:date opf:event="publication">2013-07-28</dc:date>
@@ -119,6 +119,16 @@
     <item href="Text/chapter48.xhtml" id="chapter-48" media-type="application/xhtml+xml" />
     <item href="Text/chapter49.xhtml" id="chapter-49" media-type="application/xhtml+xml" />
     <item href="Text/chapter50.xhtml" id="chapter-50" media-type="application/xhtml+xml" />
+    <item href="Text/chapter51.xhtml" id="chapter-51" media-type="application/xhtml+xml" />
+    <item href="Text/chapter52.xhtml" id="chapter-52" media-type="application/xhtml+xml" />
+    <item href="Text/chapter53.xhtml" id="chapter-53" media-type="application/xhtml+xml" />
+    <item href="Text/chapter54.xhtml" id="chapter-54" media-type="application/xhtml+xml" />
+    <item href="Text/chapter55.xhtml" id="chapter-55" media-type="application/xhtml+xml" />
+    <item href="Text/chapter56.xhtml" id="chapter-56" media-type="application/xhtml+xml" />
+    <item href="Text/chapter57.xhtml" id="chapter-57" media-type="application/xhtml+xml" />
+    <item href="Text/chapter58.xhtml" id="chapter-58" media-type="application/xhtml+xml" />
+    <item href="Text/chapter59.xhtml" id="chapter-59" media-type="application/xhtml+xml" />
+    <item href="Text/chapter60.xhtml" id="chapter-60" media-type="application/xhtml+xml" />
     <item href="Text/endnotes.xhtml" id="endnotes" media-type="application/xhtml+xml" />
     <item href="Text/acknowledgements.xhtml" id="acknowledgements" media-type="application/xhtml+xml" />
     <item href="Images/image-01.jpg" id="image-01" media-type="image/jpeg" />
@@ -145,9 +155,9 @@
        -->
   <spine toc="ncx">
     <itemref idref="cover" />
+    <itemref idref="toc" />
   <!--
     <itemref idref="frontmatter" />
-    <itemref idref="toc" />
     <itemref idref="foreword" />
     <itemref idref="dedication" />
     <itemref idref="introduction" />
@@ -202,8 +212,18 @@
     <itemref idref="chapter-48" />
     <itemref idref="chapter-49" />
     <itemref idref="chapter-50" />
-    <!--
+    <itemref idref="chapter-51" />
+    <itemref idref="chapter-52" />
+    <itemref idref="chapter-53" />
+    <itemref idref="chapter-54" />
+    <itemref idref="chapter-55" />
+    <itemref idref="chapter-56" />
+    <itemref idref="chapter-57" />
+    <itemref idref="chapter-58" />
+    <itemref idref="chapter-59" />
+    <itemref idref="chapter-60" />
     <itemref idref="endnotes" />
+    <!--
     <itemref idref="acknowledgements" />
     -->
   </spine>
@@ -278,6 +298,16 @@
     <reference href="Text/chapter48.xhtml" type="text" />
     <reference href="Text/chapter49.xhtml" type="text" />
     <reference href="Text/chapter50.xhtml" type="text" />
+    <reference href="Text/chapter51.xhtml" type="text" />
+    <reference href="Text/chapter52.xhtml" type="text" />
+    <reference href="Text/chapter53.xhtml" type="text" />
+    <reference href="Text/chapter54.xhtml" type="text" />
+    <reference href="Text/chapter55.xhtml" type="text" />
+    <reference href="Text/chapter56.xhtml" type="text" />
+    <reference href="Text/chapter57.xhtml" type="text" />
+    <reference href="Text/chapter58.xhtml" type="text" />
+    <reference href="Text/chapter59.xhtml" type="text" />
+    <reference href="Text/chapter60.xhtml" type="text" />
     <!--
     <reference href="Text/endnotes.xhtml" type="notes" />
     <reference href="Text/acknowledgements.xhtml" type="acknowledgements" />
