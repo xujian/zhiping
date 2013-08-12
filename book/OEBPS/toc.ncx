@@ -542,6 +542,84 @@
     </navPoint>
 
 
+    <navPoint id="navpoint-chapter-61" playOrder="61">
+      <navLabel>
+        <text>第六十一回　投鼠忌器宝玉瞒脏　判冤决狱平儿行权</text>
+      </navLabel>
+      <content src="Text/chapter61.xhtml"/>
+    </navPoint>
+
+
+    <navPoint id="navpoint-chapter-62" playOrder="62">
+      <navLabel>
+        <text>第六十二回　憨湘云醉眠芍药裀　呆香菱情解石榴裙</text>
+      </navLabel>
+      <content src="Text/chapter62.xhtml"/>
+    </navPoint>
+
+
+    <navPoint id="navpoint-chapter-63" playOrder="63">
+      <navLabel>
+        <text>第六十三回　寿怡红群芳开夜宴　死金丹独艳理亲丧</text>
+      </navLabel>
+      <content src="Text/chapter63.xhtml"/>
+    </navPoint>
+
+
+    <navPoint id="navpoint-chapter-64" playOrder="64">
+      <navLabel>
+        <text>第六十四回　幽淑女悲题五美吟　浪荡子情遗九龙珮</text>
+      </navLabel>
+      <content src="Text/chapter64.xhtml"/>
+    </navPoint>
+
+
+    <navPoint id="navpoint-chapter-65" playOrder="65">
+      <navLabel>
+        <text>第六十五回　贾二舍偷娶尤二姨　尤三姐思嫁柳二郎</text>
+      </navLabel>
+      <content src="Text/chapter65.xhtml"/>
+    </navPoint>
+
+
+    <navPoint id="navpoint-chapter-66" playOrder="66">
+      <navLabel>
+        <text>第六十六回　情小妹耻情归地府　冷二郎一冷入空门</text>
+      </navLabel>
+      <content src="Text/chapter66.xhtml"/>
+    </navPoint>
+
+
+    <navPoint id="navpoint-chapter-67" playOrder="67">
+      <navLabel>
+        <text>第六十七回　见土仪颦卿思故里　闻秘事凤姐讯家童</text>
+      </navLabel>
+      <content src="Text/chapter67.xhtml"/>
+    </navPoint>
+
+
+    <navPoint id="navpoint-chapter-68" playOrder="68">
+      <navLabel>
+        <text>第六十八回　苦尤娘赚入大观园　酸凤姐大闹宁国府</text>
+      </navLabel>
+      <content src="Text/chapter68.xhtml"/>
+    </navPoint>
+
+
+    <navPoint id="navpoint-chapter-69" playOrder="69">
+      <navLabel>
+        <text>第六十九回　弄小巧用借剑杀人　觉大限吞生金自逝</text>
+      </navLabel>
+      <content src="Text/chapter69.xhtml"/>
+    </navPoint>
+
+
+    <navPoint id="navpoint-chapter-70" playOrder="70">
+      <navLabel>
+        <text>第七十回　林黛玉重建桃花社　史湘云偶填柳絮词</text>
+      </navLabel>
+      <content src="Text/chapter70.xhtml"/>
+    </navPoint>
 
     <!--
     <navPoint id="navpoint9" playOrder="9">
